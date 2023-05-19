@@ -26,7 +26,7 @@ export const orders = [
     {
         orderId: 4,
         vendorName: "Vendor D",
-        pickupDate: "2023-05-17",
+        pickupDate: "2023-06-18",
         status: "Cancelled",
         username: "userD",
         password: "passwordD"
@@ -34,7 +34,7 @@ export const orders = [
       {
         orderId: 5,
         vendorName: "Vendor E",
-        pickupDate: "2023-05-17",
+        pickupDate: "2023-07-3",
         status: "Pending",
         username: "userE",
         password: "passwordE"
@@ -42,7 +42,7 @@ export const orders = [
       {
         orderId: 6,
         vendorName: "Vendor F",
-        pickupDate: "2023-05-17",
+        pickupDate: "2023-08-10",
         status: "Cancelled",
         username: "userF",
         password: "passwordF"
@@ -50,7 +50,7 @@ export const orders = [
       {
         orderId: 7,
         vendorName: "Vendor G",
-        pickupDate: "2023-05-17",
+        pickupDate: "2023-09-11",
         status: "Pending",
         username: "userG",
         password: "passwordG"
@@ -58,7 +58,7 @@ export const orders = [
       {
         orderId: 8,
         vendorName: "Vendor H",
-        pickupDate: "2023-05-17",
+        pickupDate: "2023-10-19",
         status: "Cancelled",
         username: "userH",
         password: "passwordH"
@@ -66,7 +66,7 @@ export const orders = [
       {
         orderId: 9,
         vendorName: "Vendor I",
-        pickupDate: "2023-05-17",
+        pickupDate: "2023-11-20",
         status: "Shipped",
         username: "userI",
         password: "passwordI"
@@ -74,7 +74,7 @@ export const orders = [
       {
         orderId: 10,
         vendorName: "Vendor J",
-        pickupDate: "2023-05-17",
+        pickupDate: "2023-12-25",
         status: "Shipped",
         username: "userJ",
         password: "passwordJ"
